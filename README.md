@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tusharrr09
-- 👀 I’m interested in Python
+- 👀 I’m interested in C++,Python,SQL
 - 🌱 I’m currently learning BTech EEE
 - 💞️ I’m looking to collaborate on IT
 - 📫 How to reach me saha.tush@gmail.com
